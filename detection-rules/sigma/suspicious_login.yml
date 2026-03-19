@@ -3,6 +3,8 @@ id: example-sigma-001
 status: experimental
 description: Detects a login event from an unusual source for demonstration purposes.
 author: secwexen
+date: 2026/03/19
+references:
 logsource:
   product: windows
   service: security
